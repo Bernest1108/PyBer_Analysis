@@ -51,9 +51,9 @@
 
 
 
+https://raw.githubusercontent.com/Bernest1108/PyBer_Analysis/ac841f4d38f7e6e858bf27506e4122cacaca097d/Analysis/total_rides.png
 
 
-https://github.com/Bernest1108/PyBer_Analysis/blob/ac841f4d38f7e6e858bf27506e4122cacaca097d/Analysis/total_rides.png
 
 
 
